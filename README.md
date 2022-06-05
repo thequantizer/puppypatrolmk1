@@ -1,5 +1,7 @@
 # Puppy Patrol MK1  
-  
+
+[The Quantizer](https://www.thequantizer.com)  
+
 [Part 1 - Intro](https://www.thequantizer.com/projects/puppy-patrol/part1/)  
 [Part 2 - Powering the Machine](https://www.thequantizer.com/projects/puppy-patrol/part2/)  
 [Part 3 - Signals and Controls](https://www.thequantizer.com/projects/puppy-patrol/part3/)  
